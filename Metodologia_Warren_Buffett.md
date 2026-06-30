@@ -44,14 +44,7 @@ Buffett passou de comprar ações baratas estatisticamente para adquirir **empre
 5. Negócios simples (evitando tecnologia complexa).  
 6. Preço de oferta definido (sem leilões hostis).
 
-### Métricas-Chave
-| Métrica | Perspectiva de Buffett | Threshold |
-|---------|------------------------|-----------|
-| **Owner Earnings** | “Teste da verdade” do fluxo de caixa | Lucro + D&A ± ajustes - CapEx manutenção |
-| **Margem Bruta** | Poder de precificação | > 40% |
-| **ROE** | Eficiência do capital | > 15% |
-| **Dívida/Patrimônio** | Resiliência financeira | < 0,5 |
-| **CapEx de manutenção** | Deve ser baixo | << fluxo de caixa total |
+![Tabela Métricas Chaves](assets/metricas_chaves.png)
 
 ---
 
