@@ -27,7 +27,7 @@ Aqui, o foco é construir esse sistema baseado nos **ensinamentos de Buffett**, 
 - [Financial Statement Guide](https://www.kenkoonwong.com/blog/financial-statement/)  
 - [Owner Earnings - Wikipedia](https://en.wikipedia.org/wiki/Owner_earnings)  
 - [Owner Earnings - Old School Value](https://www.oldschoolvalue.com/what-is-owner-earnings/)  
-- [Modern Owner Earnings Formula](https://www.oldschoolvalue.com/what-is-owner-earnings/#:~:text=The%20Modern%20Owner%20Earnings%20Formula,c)%20Other%20Non%2DCash%20Charges)  
+- [Modern Owner Earnings Formula](https://www.oldschoolvalue.com/what-is-owner-earnings/#:~:text=The%20Modern%20Owner%20Earnings%20Formula,c) 
 - [Buffett’s Alpha - CBS Research](https://research.cbs.dk/en/publications/buffetts-alpha-3/)  
 - [Buffett’s Alpha - Ideas Repec](https://ideas.repec.org/a/taf/ufajxx/v74y2018i4p35-55.html)  
 - [Buffett’s Alpha - NBER](https://www.nber.org/papers/w19681)  
