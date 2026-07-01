@@ -67,6 +67,65 @@ Sob Greg Abel, há sinais de expansão do círculo de competência:
 - **Pivot Digital:** foco em modelos de assinatura digital.
 
 ---
+Ótimo, João! Vamos incluir as **questões e respostas** como um tópico único dentro do documento traduzido sobre o *Investment Alpha e a Estratégia Evolutiva de Warren Buffett*. Assim, o briefing fica completo e bem estruturado.  
+
+Aqui está a versão revisada com a nova seção:
+
+---
+
+# 📊 Análise do Alpha de Investimento de Warren Buffett e sua Estratégia Evolutiva
+
+*(mantém todo o conteúdo traduzido que você já tem: Resumo Executivo, Fundamentos Quantitativos, Evolução Estratégica, Framework de Avaliação, Estudos de Caso, Desafios e Conclusão)*
+
+---
+
+## ❓ Questões Fundamentais
+
+### Quais são as regras fundamentais de Warren Buffett para ficar rico?
+**R:** As regras fundamentais de Buffett para acumular riqueza baseiam-se na filosofia de **preservação de capital** e crescimento composto a longo prazo.  
+- **Regra nº 1:** Nunca perder dinheiro.  
+- **Regra nº 2:** Jamais esquecer a regra nº 1.  
+
+Buffett enfatiza a diferença entre **preço e valor**, com o mantra: *“O preço é o que você paga, mas o valor é o que você recebe”*.  
+
+Diretrizes práticas:  
+- **Círculo de Competência** → Invista apenas no que entende profundamente.  
+- **Margem de Segurança** → Compre ações com desconto em relação ao valor intrínseco.  
+- **Fossos Econômicos** → Procure empresas com vantagens competitivas duráveis.  
+- **Temperamento Racional** → Seja cauteloso quando os outros são gananciosos e vice-versa.  
+- **Foco na Qualidade** → Prefira empresas excelentes a preços justos.  
+- **Owner Earnings** → Analise o fluxo de caixa real.  
+- **Visão de Longo Prazo** → O período favorito para manter uma ação é “para sempre”.  
+- **Gestão de Excelência** → Associe-se a gestores íntegros e competentes.  
+- **Concentração de Ativos** → Aposte em poucas empresas de alta qualidade.  
+
+---
+
+### O que é o conceito de Margem de Segurança?
+**R:** A **Margem de Segurança** é considerada por Buffett o “alicerce do sucesso nos investimentos”, herdada de Benjamin Graham.  
+Em termos simples, é a diferença entre o **valor intrínseco estimado** de uma empresa e o **preço pago** por suas ações.  
+
+Pontos principais:  
+- **Colchão contra incerteza:** protege contra erros de cálculo ou eventos inesperados.  
+- **Analogia da ponte:** se uma ponte suporta 30.000 libras, mas só permite caminhões de 10.000, há margem de segurança.  
+- **Evitar perda permanente de capital:** alinhado à regra nº 1 de Buffett.  
+- **Decisão óbvia:** deve ser tão clara que não exija cálculos complexos.  
+- **Fatores adicionais:** balanço sólido, receitas recorrentes e fossos econômicos fortalecem a margem.  
+- **Evolução:** Graham focava em números, Buffett evoluiu para empresas de alta qualidade com moats duradouros.  
+
+---
+
+### Como Buffett utiliza a alavancagem para aumentar seus retornos?
+**R:** Buffett utiliza a alavancagem de forma única, principalmente através da **estrutura da Berkshire Hathaway**, com média de 1,6–1,7 vezes.  
+
+Mecanismos:  
+- **Insurance Float:** prêmios de seguros recebidos antes das indenizações, muitas vezes com custo negativo.  
+- **Impostos Diferidos:** obrigações fiscais adiadas funcionam como empréstimo sem juros.  
+- **Amplificação de fatores:** alavancagem estável permite explorar **BAB (Betting Against Beta)** e **QMJ (Quality Minus Junk)**.  
+
+Em resumo, Buffett não usa alavancagem para ativos arriscados, mas para **potencializar ativos seguros e de alta qualidade**, criando uma vantagem competitiva sustentável.
+
+---
 
 ## 📌 Conclusão
 O legado de Buffett é a transição de um estilo de **stock-picking individual** para uma estratégia sistemática baseada em fatores de **Qualidade e Valor Intangível**. Seu sucesso mostra que a **disciplina comportamental** e a **estrutura de capital estável** são tão importantes quanto a análise fundamentalista para alcançar desempenho superior no longo prazo.
