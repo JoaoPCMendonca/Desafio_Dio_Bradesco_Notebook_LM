@@ -73,12 +73,6 @@ Aqui está a versão revisada com a nova seção:
 
 ---
 
-# 📊 Análise do Alpha de Investimento de Warren Buffett e sua Estratégia Evolutiva
-
-*(mantém todo o conteúdo traduzido que você já tem: Resumo Executivo, Fundamentos Quantitativos, Evolução Estratégica, Framework de Avaliação, Estudos de Caso, Desafios e Conclusão)*
-
----
-
 ## ❓ Questões Fundamentais
 
 ### Quais são as regras fundamentais de Warren Buffett para ficar rico?
